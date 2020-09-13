@@ -1,0 +1,68 @@
+.righthalf{
+	width:50%;
+	height:100%;
+	background-color:white;
+	float:right;
+}
+.lefthalf a{
+	display:block;
+	padding-left:20px;
+	text-decoration:none;
+	font-size:18px;
+	color:black;
+	width:100px;
+}
+i{
+	padding-right:5px;
+}
+img{ 
+	width:70%;
+	height:240px;
+	padding:40px 0px 50px 90px;
+}
+.lefthalf h4{
+	padding-left:5px;
+	font-size:18px;
+}
+.linkedin{
+	margin-top:10px;
+}
+.instagram{
+	margin-top:15px;
+}
+.email{
+	font-size:18px;
+	padding-top:30px;
+	padding-bottom:165px;
+	padding-left:5px;
+}
+.lefthalf{
+	width:50%;
+	height:100%;
+	background-color:#afeeee;
+	float:left;
+}
+.righthalf h1{
+	color:#00008b;
+	padding-top:150px;
+	padding-left:15px;
+	padding-bottom:10px;
+	border-bottom:7px solid #afeeee;
+	margin-bottom:50px;
+	font-size:45px;
+}
+.righthalf h2{
+	padding-bottom:10px;
+	padding-left:15px;
+	font-size:35px;
+}
+.righthalf p{
+	padding-left:15px;
+	font-size:20px;
+}
+.righthalf h3{
+	padding-top:30px;
+	padding-left:15px;
+	color:#dc143c;
+	font-size:25px;
+}
